@@ -1,4 +1,7 @@
 class Dog
 end
 
-d
+#local variable name = whatever
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
